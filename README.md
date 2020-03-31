@@ -1,4 +1,4 @@
-# Awesome Active Learning [![Awesome](/assets/images/README/badge.svg)](https://awesome.re)
+# Awesome Active Learning [![Awesome](../assets/images/README/badge.svg)](https://awesome.re)
 
 A list of resources related to Active learning in machine learning.
 
@@ -20,7 +20,9 @@ A list of resources related to Active learning in machine learning.
 
 ### 2000s
 
-* ddd
+* [[Guo et al]](https://papers.nips.cc/paper/3295-discriminative-batch-mode-active-learning.pdf) Active Learning with Direct Query Construction. KDD. 2008
+* [[Ling et al]](https://dl.acm.org/doi/10.1145/1401890.1401950) Discriminative Batch Mode Active Learning. NIPS 2007
+* 
 
 
 
