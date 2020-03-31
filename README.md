@@ -29,7 +29,7 @@
 ### 2000s
 
 * [Active Learning with Direct Query Construction](https://dl.acm.org/doi/10.1145/1401890.1401950), Yuhong Guo, Dale Schuurmans. (KDD, 2008)
-* [Discriminative Batch Mode Active Learning]((https://papers.nips.cc/paper/3295-discriminative-batch-mode-active-learning.pdf)). Charles X. Ling, Jun Du. NIPS 2007
+* [Discriminative Batch Mode Active Learning](https://papers.nips.cc/paper/3295-discriminative-batch-mode-active-learning.pdf). Charles X. Ling, Jun Du. (NIPS 2007)
 * 
 
 
