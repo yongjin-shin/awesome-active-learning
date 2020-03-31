@@ -4,6 +4,14 @@
 
 
 
+
+
+## Tutorials
+
+* DDD
+
+
+
 ## Papers
 
 ### 2020
@@ -20,8 +28,8 @@
 
 ### 2000s
 
-* [[Guo et al]](https://papers.nips.cc/paper/3295-discriminative-batch-mode-active-learning.pdf) Active Learning with Direct Query Construction. KDD. 2008
-* [[Ling et al]](https://dl.acm.org/doi/10.1145/1401890.1401950) Discriminative Batch Mode Active Learning. NIPS 2007
+* [Active Learning with Direct Query Construction](https://dl.acm.org/doi/10.1145/1401890.1401950), Yuhong Guo, Dale Schuurmans. (KDD, 2008)
+* [Discriminative Batch Mode Active Learning]((https://papers.nips.cc/paper/3295-discriminative-batch-mode-active-learning.pdf)). Charles X. Ling, Jun Du. NIPS 2007
 * 
 
 
