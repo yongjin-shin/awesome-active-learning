@@ -1,6 +1,6 @@
-# Awesome Active Learning [![Awesome](../assets/images/README/badge.svg)](https://awesome.re)
+# Awesome Active Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A list of resources related to Active learning in machine learning.
+> A list of resources related to Active learning in machine learning.
 
 
 
