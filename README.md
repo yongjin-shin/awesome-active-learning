@@ -19,6 +19,9 @@
 
 * [Discriminative Batch Mode Active Learning](https://papers.nips.cc/paper/3295-discriminative-batch-mode-active-learning.pdf). Charles X. Ling, Jun Du. (NIPS, 2007)
 * [Hierarchical Sampling for Active Learning](https://dl.acm.org/doi/pdf/10.1145/1390156.1390183). Sanjoy Dasgupta, Daniel Hsu  (ICML, 2008)
+* [Ask me better questions: active learning queries based on rule induction](https://www.eecs.wsu.edu/~cook/pubs/kdd11.pdf). Parisa Rashidi, Diane J. Cook. (KDD, 2011)
+* [Active Learning from Crowds](http://www.cs.columbia.edu/~prokofieva/CandidacyPapers/Yan_AL.pdf). Yan Yan, R ́omer Rosales, Glenn Fung, Jennifer G. Dy. (ICML, 2011)
+* [Active Instance Sampling via Matrix Partition](https://papers.nips.cc/paper/3919-active-instance-sampling-via-matrix-partition). Yuhong Guo. (NIPS 2010)
 
 
 
