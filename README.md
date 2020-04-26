@@ -17,7 +17,9 @@
 
 ### Singleton
 
-* [Active Learning for Probabilistic Hypotheses Usingthe Maximum Gibbs Error Criterion](https://papers.nips.cc/paper/4958-active-learning-for-probabilistic-hypotheses-using-the-maximum-gibbs-error-criterion.pdf), Nguyen Viet Cuong, Wee Sun Lee, Nan Ye, Kian Ming A. Chai, Hai Leong Chieu. (NIPS, 2013)
+* [The power of ensembles for active learning in image classification](http://openaccess.thecvf.com/content_cvpr_2018/papers/Beluch_The_Power_of_CVPR_2018_paper.pdf). William H. Beluch, Tim Genewein, Andreas Nurnberger, Jan M. Kohler. (CVPR, 2018)
+
+* [Beyond Disagreement-based Agnostic Active Learning](https://papers.nips.cc/paper/5435-beyond-disagreement-based-agnostic-active-learning.pdf). Chicheng Zhang, Kamalika Chaudhuri. (NIPS, 2014)
 
 * [Active Learning using On-line Algorithms](https://www.cs.rutgers.edu/~pazzani/Publications/active-online.pdf). Chris Mesterharm, Michael J. Pazzani. (KDD, 2011) 
 
@@ -29,6 +31,9 @@
 
 ### Batch/Batch-like
 
+* [Active Learning and Search on Low-Rank Matrices](https://www.cs.cmu.edu/~schneide/kdd-13.pdf). Dougal J. Sutherland, Barnabás Póczos, Jeff Schneider. (KDD, 2013)
+* [Near-optimal Batch Mode Active Learning and Adaptive Submodular Optimization](http://proceedings.mlr.press/v28/chen13b.pdf). Yuxin Chen, Andreas Krause. (ICML, 2013)
+* [Active Learning for Probabilistic Hypotheses Usingthe Maximum Gibbs Error Criterion](https://papers.nips.cc/paper/4958-active-learning-for-probabilistic-hypotheses-using-the-maximum-gibbs-error-criterion.pdf), Nguyen Viet Cuong, Wee Sun Lee, Nan Ye, Kian Ming A. Chai, Hai Leong Chieu. (NIPS, 2013)
 * [Batch Active Learning via Coordinated Matching](https://icml.cc/2012/papers/607.pdf). Javad Azimi, Alan Fern, Xiaoli Z. Fern, Glencora Borradaile, Brent Heeringa. (ICML, 2012)
 * [Ask me better questions: active learning queries based on rule induction](https://www.eecs.wsu.edu/~cook/pubs/kdd11.pdf). Parisa Rashidi, Diane J. Cook. (KDD, 2011)
 * [Active Instance Sampling via Matrix Partition](https://papers.nips.cc/paper/3919-active-instance-sampling-via-matrix-partition). Yuhong Guo. (NIPS 2010)
@@ -39,6 +44,7 @@
 ## Stream-Based Selective Sampling
 
 * [An Analysis of Active Learning Strategies for Sequence Labeling Tasks](https://www.biostat.wisc.edu/~craven/papers/settles.emnlp08.pdf). Burr Settles, Mark Craven. (EMNLP, 2008)
+* [Improving Generalization with Active Learning](https://users.cs.northwestern.edu/~pardo/courses/mmml/papers/active_learning/improving_generalization_with_active_learning_ML94.pdf), DAVID COHN, LES ATLAS, RICHARD LADNER. (Machine Learning, 1994)
 
 
 
