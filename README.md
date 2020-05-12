@@ -19,6 +19,8 @@
 
 * [The power of ensembles for active learning in image classification](http://openaccess.thecvf.com/content_cvpr_2018/papers/Beluch_The_Power_of_CVPR_2018_paper.pdf). William H. Beluch, Tim Genewein, Andreas Nurnberger, Jan M. Kohler. (CVPR, 2018)
 
+* [Learning Active Learning from Data](https://papers.nips.cc/paper/7010-learning-active-learning-from-data.pdf). Ksenia Konyushkova, Sznitman Raphael. (NIPS, 2017)
+
 * [Beyond Disagreement-based Agnostic Active Learning](https://papers.nips.cc/paper/5435-beyond-disagreement-based-agnostic-active-learning.pdf). Chicheng Zhang, Kamalika Chaudhuri. (NIPS, 2014)
 
 * [Active Learning using On-line Algorithms](https://www.cs.rutgers.edu/~pazzani/Publications/active-online.pdf). Chris Mesterharm, Michael J. Pazzani. (KDD, 2011) 
@@ -31,7 +33,9 @@
 
 ### Batch/Batch-like
 
-* [Active Learning and Search on Low-Rank Matrices](https://www.cs.cmu.edu/~schneide/kdd-13.pdf). Dougal J. Sutherland, Barnabás Póczos, Jeff Schneider. (KDD, 2013)
+* [Active Semi-Supervised Learning Using Sampling Theory for Graph Signals](http://sipi.usc.edu/~ortega/Papers/Gadde_KDD_14.pdf). Akshay Gadde, Aamir Anis, Antonio Ortega. (KDD, 2014)
+* [Active Learning for Multi-Objective Optimization](http://proceedings.mlr.press/v28/zuluaga13.pdf). Marcela Zuluaga, Andreas Krause, Guillaume Sergent, Markus P{\''u}schel (ICML, 2013)
+* [Querying Discriminative and Representative Samples forBatch Mode Active Learning](http://chbrown.github.io/kdd-2013-usb/kdd/p158.pdf). Zheng Wang, Jieping Ye. (KDD, 2013)
 * [Near-optimal Batch Mode Active Learning and Adaptive Submodular Optimization](http://proceedings.mlr.press/v28/chen13b.pdf). Yuxin Chen, Andreas Krause. (ICML, 2013)
 * [Active Learning for Probabilistic Hypotheses Usingthe Maximum Gibbs Error Criterion](https://papers.nips.cc/paper/4958-active-learning-for-probabilistic-hypotheses-using-the-maximum-gibbs-error-criterion.pdf), Nguyen Viet Cuong, Wee Sun Lee, Nan Ye, Kian Ming A. Chai, Hai Leong Chieu. (NIPS, 2013)
 * [Batch Active Learning via Coordinated Matching](https://icml.cc/2012/papers/607.pdf). Javad Azimi, Alan Fern, Xiaoli Z. Fern, Glencora Borradaile, Brent Heeringa. (ICML, 2012)
