@@ -17,7 +17,11 @@
 
 ### Singleton
 
+* [A Variance Maximization Criterion for Active Learning](https://arxiv.org/pdf/1706.07642.pdf). Yazhou Yang, Marco Loog. (Pattern Recognition, 2018)
+
 * [The power of ensembles for active learning in image classification](http://openaccess.thecvf.com/content_cvpr_2018/papers/Beluch_The_Power_of_CVPR_2018_paper.pdf). William H. Beluch, Tim Genewein, Andreas Nurnberger, Jan M. Kohler. (CVPR, 2018)
+
+* [Learning Algorithms for Active Learning](https://arxiv.org/pdf/1708.00088.pdf). Philip Bachman, Alessandro Sordoni, Adam Trischler. (ICML, 2017)
 
 * [Learning Active Learning from Data](https://papers.nips.cc/paper/7010-learning-active-learning-from-data.pdf). Ksenia Konyushkova, Sznitman Raphael. (NIPS, 2017)
 
@@ -33,6 +37,7 @@
 
 ### Batch/Batch-like
 
+* [Integrating Bayesian and Discriminative Sparse Kernel Machines for Multi-class Active Learning](https://papers.nips.cc/paper/8500-integrating-bayesian-and-discriminative-sparse-kernel-machines-for-multi-class-active-learning.pdf). Weishi Shi, Qi Yu. (NeurIPS, 2019)
 * [Rapid Performance Gain through Active Model Reuse](http://www.lamda.nju.edu.cn/liyf/paper/ijcai19-acmr.pdf). Feng Shi, Yu-Feng Li. (IJCAI, 2019)
 * [Meta-Learning for Batch Mode Active Learning](https://openreview.net/forum?id=r1PsGFJPz). Sachin Ravi, Hugo Larochelle. (ICLR-WS, 2018)
 * [Active Semi-Supervised Learning Using Sampling Theory for Graph Signals](http://sipi.usc.edu/~ortega/Papers/Gadde_KDD_14.pdf). Akshay Gadde, Aamir Anis, Antonio Ortega. (KDD, 2014)
