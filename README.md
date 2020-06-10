@@ -62,6 +62,7 @@
 
 ## Membership Query Synthesize
 
+* [Variational Adversarial Active Learning](https://arxiv.org/pdf/1904.00370.pdf). Samarth Sinha, Sayna Ebrahimi, Trevor Darrell. (ICCV, 2019)
 * [Active Learning via Membership Query Synthesisfor Semi-supervised Sentence Classification](https://www.aclweb.org/anthology/K19-1044/). Raphael Schumann, Ines Rehbein. (CoNLL, 2019)
 * [Active Learning with Direct Query Construction](https://dl.acm.org/doi/10.1145/1401890.1401950), Yuhong Guo, Dale Schuurmans. (KDD, 2008)
 
