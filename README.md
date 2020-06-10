@@ -37,6 +37,7 @@
 
 ### Batch/Batch-like
 
+* [Variational Adversarial Active Learning](https://arxiv.org/pdf/1904.00370.pdf). Samarth Sinha, Sayna Ebrahimi, Trevor Darrell. (ICCV, 2019)
 * [Integrating Bayesian and Discriminative Sparse Kernel Machines for Multi-class Active Learning](https://papers.nips.cc/paper/8500-integrating-bayesian-and-discriminative-sparse-kernel-machines-for-multi-class-active-learning.pdf). Weishi Shi, Qi Yu. (NeurIPS, 2019)
 * [Rapid Performance Gain through Active Model Reuse](http://www.lamda.nju.edu.cn/liyf/paper/ijcai19-acmr.pdf). Feng Shi, Yu-Feng Li. (IJCAI, 2019)
 * [Meta-Learning for Batch Mode Active Learning](https://openreview.net/forum?id=r1PsGFJPz). Sachin Ravi, Hugo Larochelle. (ICLR-WS, 2018)
@@ -62,7 +63,6 @@
 
 ## Membership Query Synthesize
 
-* [Variational Adversarial Active Learning](https://arxiv.org/pdf/1904.00370.pdf). Samarth Sinha, Sayna Ebrahimi, Trevor Darrell. (ICCV, 2019)
 * [Active Learning via Membership Query Synthesisfor Semi-supervised Sentence Classification](https://www.aclweb.org/anthology/K19-1044/). Raphael Schumann, Ines Rehbein. (CoNLL, 2019)
 * [Active Learning with Direct Query Construction](https://dl.acm.org/doi/10.1145/1401890.1401950), Yuhong Guo, Dale Schuurmans. (KDD, 2008)
 
