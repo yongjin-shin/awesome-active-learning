@@ -27,6 +27,8 @@
 
 * [Beyond Disagreement-based Agnostic Active Learning](https://papers.nips.cc/paper/5435-beyond-disagreement-based-agnostic-active-learning.pdf). Chicheng Zhang, Kamalika Chaudhuri. (NIPS, 2014)
 
+* [Bayesian Optimal Active Search and Surveying](https://arxiv.org/abs/1206.6406). Roman Garnett, Yaumna Krishnamurthy, Xuehan Xiong, Jeff Schneider, Richard Mann. (ICML, 2012)
+
 * [Active Learning using On-line Algorithms](https://www.cs.rutgers.edu/~pazzani/Publications/active-online.pdf). Chris Mesterharm, Michael J. Pazzani. (KDD, 2011) 
 
 * [Active Learning from Crowds](http://www.cs.columbia.edu/~prokofieva/CandidacyPapers/Yan_AL.pdf). Yan Yan, R ́omer Rosales, Glenn Fung, Jennifer G. Dy. (ICML, 2011)
