@@ -8,8 +8,7 @@
 
 * [[Book] Active Learning](https://www.morganclaypool.com/doi/abs/10.2200/S00429ED1V01Y201207AIM018). Burr Settles. (CMU, 2012)
 * [[Youtube] Active Learning from Theory to Practice](https://www.youtube.com/watch?v=_Ql5vfOPxZU). Steve Hanneke, Robert Nowak. (ICML, 2019)
-
-
+* [[Youtube] Bandits, Active Learning, Bayesian RL and Global Optimization](https://www.youtube.com/watch?v=5rev-zVx1Ps).Marc Toussaint. (MLSS, 2013)
 
 # Papers
 
