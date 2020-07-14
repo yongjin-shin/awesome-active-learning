@@ -7,8 +7,9 @@
 # Tutorials
 
 * [[Book] Active Learning](https://www.morganclaypool.com/doi/abs/10.2200/S00429ED1V01Y201207AIM018). Burr Settles. (CMU, 2012)
-* [[Youtube] Active Learning from Theory to Practice](https://www.youtube.com/watch?v=_Ql5vfOPxZU). Steve Hanneke, Robert Nowak. (ICML, 2019)
-* [[Youtube] Bandits, Active Learning, Bayesian RL and Global Optimization](https://www.youtube.com/watch?v=5rev-zVx1Ps).Marc Toussaint. (MLSS, 2013)
+* [[Seminar] Active Learning from Theory to Practice](https://www.youtube.com/watch?v=_Ql5vfOPxZU). Steve Hanneke, Robert Nowak. (ICML, 2019)
+* [[Seminar] Bandits, Active Learning, Bayesian RL and Global Optimization](https://www.youtube.com/watch?v=5rev-zVx1Ps).Marc Toussaint. (MLSS, 2013)
+* [[Lecture. 24]  36-708 Statistical Methods for Machine Learning](https://www.youtube.com/watch?v=UHWbZHZ7aVk). (CMU, 2015)
 
 # Papers
 
@@ -28,6 +29,8 @@
 
 * [Bayesian Optimal Active Search and Surveying](https://arxiv.org/abs/1206.6406). Roman Garnett, Yaumna Krishnamurthy, Xuehan Xiong, Jeff Schneider, Richard Mann. (ICML, 2012)
 
+* [Bayesian Active Learning for Classification and Prefernce Learning](https://arxiv.org/abs/1112.5745). Neil Houlsby, Ferenc Huszár, Zoubin Ghahramani, Máté Lengyel. (CoRR, 2011)
+
 * [Active Learning using On-line Algorithms](https://www.cs.rutgers.edu/~pazzani/Publications/active-online.pdf). Chris Mesterharm, Michael J. Pazzani. (KDD, 2011) 
 
 * [Active Learning from Crowds](http://www.cs.columbia.edu/~prokofieva/CandidacyPapers/Yan_AL.pdf). Yan Yan, R ́omer Rosales, Glenn Fung, Jennifer G. Dy. (ICML, 2011)
@@ -38,6 +41,8 @@
 
 ### Batch/Batch-like
 
+* [Deep Batch Active Learning By Diverse, Uncertain Gradient Lower Bound](https://openreview.net/forum?id=ryghZJBKPS). Jordan T. Ash, Chicheng Zhang, Akshay Krishnamurthy, John Langford, Alekh Agarwal. (ICLR, 2020)
+* [Bayesian Generative Active Deep Learning](https://arxiv.org/pdf/1904.11643.pdf). Toan Tran, Thanh-Toan Do, Ian Reid, Gustavo Carneiro. (ICML, 2019)
 * [Learning Loss for Active Learning](https://arxiv.org/abs/1905.03677). Donggeun Yoo, In So Kweon. (CVPR, 2019)
 * [Variational Adversarial Active Learning](https://arxiv.org/pdf/1904.00370.pdf). Samarth Sinha, Sayna Ebrahimi, Trevor Darrell. (arXiv, 2019)
 * [Integrating Bayesian and Discriminative Sparse Kernel Machines for Multi-class Active Learning](https://papers.nips.cc/paper/8500-integrating-bayesian-and-discriminative-sparse-kernel-machines-for-multi-class-active-learning.pdf). Weishi Shi, Qi Yu. (NeurIPS, 2019)
