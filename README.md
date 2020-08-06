@@ -23,8 +23,6 @@
 
 * [Learning Algorithms for Active Learning](https://arxiv.org/pdf/1708.00088.pdf). Philip Bachman, Alessandro Sordoni, Adam Trischler. (ICML, 2017)
 
-* [Learning Active Learning from Data](https://papers.nips.cc/paper/7010-learning-active-learning-from-data.pdf). Ksenia Konyushkova, Sznitman Raphael. (NIPS, 2017)
-
 * [Beyond Disagreement-based Agnostic Active Learning](https://papers.nips.cc/paper/5435-beyond-disagreement-based-agnostic-active-learning.pdf). Chicheng Zhang, Kamalika Chaudhuri. (NIPS, 2014)
 
 * [Bayesian Optimal Active Search and Surveying](https://arxiv.org/abs/1206.6406). Roman Garnett, Yaumna Krishnamurthy, Xuehan Xiong, Jeff Schneider, Richard Mann. (ICML, 2012)
@@ -47,7 +45,6 @@
 * [Variational Adversarial Active Learning](https://arxiv.org/pdf/1904.00370.pdf). Samarth Sinha, Sayna Ebrahimi, Trevor Darrell. (arXiv, 2019)
 * [Integrating Bayesian and Discriminative Sparse Kernel Machines for Multi-class Active Learning](https://papers.nips.cc/paper/8500-integrating-bayesian-and-discriminative-sparse-kernel-machines-for-multi-class-active-learning.pdf). Weishi Shi, Qi Yu. (NeurIPS, 2019)
 * [Rapid Performance Gain through Active Model Reuse](http://www.lamda.nju.edu.cn/liyf/paper/ijcai19-acmr.pdf). Feng Shi, Yu-Feng Li. (IJCAI, 2019)
-* [Meta-Learning for Batch Mode Active Learning](https://openreview.net/forum?id=r1PsGFJPz). Sachin Ravi, Hugo Larochelle. (ICLR-WS, 2018)
 * [Active Semi-Supervised Learning Using Sampling Theory for Graph Signals](http://sipi.usc.edu/~ortega/Papers/Gadde_KDD_14.pdf). Akshay Gadde, Aamir Anis, Antonio Ortega. (KDD, 2014)
 * [Active Learning for Multi-Objective Optimization](http://proceedings.mlr.press/v28/zuluaga13.pdf). Marcela Zuluaga, Andreas Krause, Guillaume Sergent, Markus P{\''u}schel (ICML, 2013)
 * [Querying Discriminative and Representative Samples forBatch Mode Active Learning](http://chbrown.github.io/kdd-2013-usb/kdd/p158.pdf). Zheng Wang, Jieping Ye. (KDD, 2013)
@@ -62,6 +59,7 @@
 
 ## Stream-Based Selective Sampling
 
+* [Online Active Learning of Reject Option Classifiers](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ShahK.3433.pdf). Kulin Shah, Naresh Manwani. (AAAI, 2020)
 * [Active Learning from Peers](https://papers.nips.cc/paper/7276-active-learning-from-peers.pdf). Keerthiram Murugesan, Jaime Carbonell. (NIPS, 2017)
 * [An Analysis of Active Learning Strategies for Sequence Labeling Tasks](https://www.biostat.wisc.edu/~craven/papers/settles.emnlp08.pdf). Burr Settles, Mark Craven. (EMNLP, 2008)
 * [Improving Generalization with Active Learning](https://users.cs.northwestern.edu/~pardo/courses/mmml/papers/active_learning/improving_generalization_with_active_learning_ML94.pdf), DAVID COHN, LES ATLAS, RICHARD LADNER. (Machine Learning, 1994)
@@ -75,5 +73,21 @@
 
 
 
-## Others
+## Meta-Learning
 
+* [Meta-Learning for Batch Mode Active Learning](https://openreview.net/forum?id=r1PsGFJPz). Sachin Ravi, Hugo Larochelle. (ICLR-WS, 2018)
+* [Meta-Learning Transferable Active Learning Policies by Deep Reinforcement Learning](https://arxiv.org/abs/1806.04798). Kunkun Pang, Mingzhi Dong, Yang Wu, Timothy Hospedales. (ICML-WS, 2018) 
+* [Learning Active Learning from Data](https://papers.nips.cc/paper/7010-learning-active-learning-from-data.pdf). Ksenia Konyushkova, Sznitman Raphael. (NIPS, 2017)
+
+
+
+## Theory
+
+* [Active Learning from Imperfect Labelers](https://papers.nips.cc/paper/6162-active-learning-from-imperfect-labelers.pdf). Songbai Yan, Kamalika Chaudhuri, Tara Javidi (NIPS, 2016)
+
+
+
+## Critics
+
+* [Towards Robust and Reproducible Active  Learning Using Neural Networks](). Prateek Munjal, Nasir Hayaat, Nunawar Hayat, Jamshid Sourati, Shadab Khan. (arXiv, 2020)
+* [Parting with Illusions about Deep Active Learning](). Sudhanshu Mittal, Maxim Tatarchenko. Ozgu ̈n Cicek, Thomas Brox. (arXiv, 2019)
