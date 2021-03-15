@@ -83,11 +83,12 @@
 
 ## Theory
 
+* [On Statistical Bias In Active Learning: How and When To Fix It](https://openreview.net/forum?id=JiYq3eqTKY). Sebastian Farquhar, Yarin Gal, Tom Rainforth (ICLR, 2021 spotlight)
 * [Active Learning from Imperfect Labelers](https://papers.nips.cc/paper/6162-active-learning-from-imperfect-labelers.pdf). Songbai Yan, Kamalika Chaudhuri, Tara Javidi (NIPS, 2016)
 
 
 
 ## Critics
 
-* [Towards Robust and Reproducible Active  Learning Using Neural Networks](). Prateek Munjal, Nasir Hayaat, Nunawar Hayat, Jamshid Sourati, Shadab Khan. (arXiv, 2020)
-* [Parting with Illusions about Deep Active Learning](). Sudhanshu Mittal, Maxim Tatarchenko. Ozgu ̈n Cicek, Thomas Brox. (arXiv, 2019)
+* [Towards Robust and Reproducible Active  Learning Using Neural Networks](https://arxiv.org/abs/2002.09564). Prateek Munjal, Nasir Hayaat, Nunawar Hayat, Jamshid Sourati, Shadab Khan. (arXiv, 2020)
+* [Parting with Illusions about Deep Active Learning](https://arxiv.org/abs/1912.05361). Sudhanshu Mittal, Maxim Tatarchenko. Ozgu ̈n Cicek, Thomas Brox. (arXiv, 2019)
