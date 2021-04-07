@@ -97,4 +97,7 @@ Awesome Active Learning [![Awesome](https://awesome.re/badge.svg)](https://aweso
 
 ## Related
 
+### Data Valuation
+
 * [Dataset Condensation with Gradient Matching](https://openreview.net/forum?id=mSAKhLYLSsl). Bo Zhao, Konda Reddy Mopuri, Hakan Bilen. (ICLR, 2021 Oral)
+* [Data Valuation Using Reinforcement Learning](https://arxiv.org/abs/1909.11671). Jinsung Yoon, Sercan O. Arik, Tomas Pfister. (ICML 2020)
