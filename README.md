@@ -1,4 +1,4 @@
-# Awesome Active Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+Awesome Active Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A list of resources related to Active learning in machine learning.
 
@@ -92,3 +92,9 @@
 
 * [Towards Robust and Reproducible Active  Learning Using Neural Networks](https://arxiv.org/abs/2002.09564). Prateek Munjal, Nasir Hayaat, Nunawar Hayat, Jamshid Sourati, Shadab Khan. (arXiv, 2020)
 * [Parting with Illusions about Deep Active Learning](https://arxiv.org/abs/1912.05361). Sudhanshu Mittal, Maxim Tatarchenko. Ozgu ̈n Cicek, Thomas Brox. (arXiv, 2019)
+
+
+
+## Related
+
+* [Dataset Condensation with Gradient Matching](https://openreview.net/forum?id=mSAKhLYLSsl). Bo Zhao, Konda Reddy Mopuri, Hakan Bilen. (ICLR, 2021 Oral)
