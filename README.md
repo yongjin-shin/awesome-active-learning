@@ -101,3 +101,9 @@ Awesome Active Learning [![Awesome](https://awesome.re/badge.svg)](https://aweso
 
 * [Dataset Condensation with Gradient Matching](https://openreview.net/forum?id=mSAKhLYLSsl). Bo Zhao, Konda Reddy Mopuri, Hakan Bilen. (ICLR, 2021 Oral)
 * [Data Valuation Using Reinforcement Learning](https://arxiv.org/abs/1909.11671). Jinsung Yoon, Sercan O. Arik, Tomas Pfister. (ICML 2020)
+
+### Time series
+* [Coherence-Based Label Propagation over Time Series for Accelerated Active Learning](https://openreview.net/pdf?id=gjNcH0hj0LM). Yooju Shin, Susik Yoon, Sundong Kim, Hwanjun Song, Jae-Gil Lee, Byung Suk Lee. (ICLR, 2022)
+
+### Social Goods
+* [Active Learning for Human-in-the-loop Customs Inspection](https://ieeexplore.ieee.org/document/9695316/). Sundong Kim, Tung-Duong Mai, Thi Nguyen Duc Khanh, Sungwon Han, Sungwon Park, Karandeep Singh, Meeyoung Cha. (TKDE, 2022)
