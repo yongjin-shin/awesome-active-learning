@@ -39,6 +39,9 @@ Awesome Active Learning [![Awesome](https://awesome.re/badge.svg)](https://aweso
 
 ### Batch/Batch-like
 
+* [Active Learning for Human-in-the-loop Customs Inspection](https://ieeexplore.ieee.org/document/9695316/). Sundong Kim, Tung-Duong Mai, Thi Nguyen Duc Khanh, Sungwon Han, Sungwon Park, Karandeep Singh, Meeyoung Cha. (TKDE, 2022)
+* [Carpe Diem, Seize the Samples Uncertain at the Moment for Adaptive Batch Selection](https://link.springer.com/article/10.1007%2Fs10994-020-05903-6). Hwanjun Song, Sundong Kim, Minseok Kim, Jae-Gil Lee. (Machine Learning, 2020)
+* [Ada-Boundary: Accelerating the DNN Training via Adaptive Boundary Batch Selection](https://dl.acm.org/doi/10.1145/3340531.3411898). JHwanjun Song, Minseok Kim, Sundong Kim, Jae-Gil Lee. (CIKM, 2020)
 * [Deep Batch Active Learning By Diverse, Uncertain Gradient Lower Bound](https://openreview.net/forum?id=ryghZJBKPS). Jordan T. Ash, Chicheng Zhang, Akshay Krishnamurthy, John Langford, Alekh Agarwal. (ICLR, 2020)
 * [Bayesian Generative Active Deep Learning](https://arxiv.org/pdf/1904.11643.pdf). Toan Tran, Thanh-Toan Do, Ian Reid, Gustavo Carneiro. (ICML, 2019)
 * [Learning Loss for Active Learning](https://arxiv.org/abs/1905.03677). Donggeun Yoo, In So Kweon. (CVPR, 2019)
@@ -104,6 +107,3 @@ Awesome Active Learning [![Awesome](https://awesome.re/badge.svg)](https://aweso
 
 ### Time series
 * [Coherence-Based Label Propagation over Time Series for Accelerated Active Learning](https://openreview.net/pdf?id=gjNcH0hj0LM). Yooju Shin, Susik Yoon, Sundong Kim, Hwanjun Song, Jae-Gil Lee, Byung Suk Lee. (ICLR, 2022)
-
-### Social Goods
-* [Active Learning for Human-in-the-loop Customs Inspection](https://ieeexplore.ieee.org/document/9695316/). Sundong Kim, Tung-Duong Mai, Thi Nguyen Duc Khanh, Sungwon Han, Sungwon Park, Karandeep Singh, Meeyoung Cha. (TKDE, 2022)
