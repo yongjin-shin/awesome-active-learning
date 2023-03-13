@@ -39,6 +39,7 @@ Awesome Active Learning [![Awesome](https://awesome.re/badge.svg)](https://aweso
 
 ### Batch/Batch-like
 
+* [Stochastic Batch Acquisition for Deep Active Learning](https://arxiv.org/abs/2106.12059). Andreas Kirsch, Sebastian Farquhar, Parmida Atighehchian, Andrew Jesson, Frederic Branchaud-Charron, Yarin Gal. (arXiv, 2021)
 * [LADA: Look-Ahead Data Acquisition via Augmentation for Deep Active Learning](https://openreview.net/forum?id=eATOjMwxfUQ). Yooon-Yeong Kim, Kyungwoo Song, JoonHo Jang, Il-chul Moon. (NeurIPS, 2021)
 * [Deep Batch Active Learning By Diverse, Uncertain Gradient Lower Bound](https://openreview.net/forum?id=ryghZJBKPS). Jordan T. Ash, Chicheng Zhang, Akshay Krishnamurthy, John Langford, Alekh Agarwal. (ICLR, 2020)
 * [Bayesian Generative Active Deep Learning](https://arxiv.org/pdf/1904.11643.pdf). Toan Tran, Thanh-Toan Do, Ian Reid, Gustavo Carneiro. (ICML, 2019)
