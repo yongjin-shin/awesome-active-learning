@@ -17,6 +17,8 @@ Awesome Active Learning [![Awesome](https://awesome.re/badge.svg)](https://aweso
 
 ### Singleton
 
+* [Influence Selection for Active Learning](https://arxiv.org/abs/2108.09331). Zhuoming Liu, Hao Ding, Huaping Zhong, Weijia Li, Jifeng Dai, Conghui He. (ICCV, 2021)
+
 * [A Variance Maximization Criterion for Active Learning](https://arxiv.org/pdf/1706.07642.pdf). Yazhou Yang, Marco Loog. (Pattern Recognition, 2018)
 
 * [The power of ensembles for active learning in image classification](http://openaccess.thecvf.com/content_cvpr_2018/papers/Beluch_The_Power_of_CVPR_2018_paper.pdf). William H. Beluch, Tim Genewein, Andreas Nurnberger, Jan M. Kohler. (CVPR, 2018)
@@ -39,7 +41,6 @@ Awesome Active Learning [![Awesome](https://awesome.re/badge.svg)](https://aweso
 
 ### Batch/Batch-like
 
-* [Influence Selection for Active Learning](https://arxiv.org/abs/2108.09331). Zhuoming Liu, Hao Ding, Huaping Zhong, Weijia Li, Jifeng Dai, Conghui He. (ICCV, 2021)
 * [Stochastic Batch Acquisition for Deep Active Learning](https://arxiv.org/abs/2106.12059). Andreas Kirsch, Sebastian Farquhar, Parmida Atighehchian, Andrew Jesson, Frederic Branchaud-Charron, Yarin Gal. (arXiv, 2021)
 * [LADA: Look-Ahead Data Acquisition via Augmentation for Deep Active Learning](https://openreview.net/forum?id=eATOjMwxfUQ). Yooon-Yeong Kim, Kyungwoo Song, JoonHo Jang, Il-chul Moon. (NeurIPS, 2021)
 * [Deep Batch Active Learning By Diverse, Uncertain Gradient Lower Bound](https://openreview.net/forum?id=ryghZJBKPS). Jordan T. Ash, Chicheng Zhang, Akshay Krishnamurthy, John Langford, Alekh Agarwal. (ICLR, 2020)
