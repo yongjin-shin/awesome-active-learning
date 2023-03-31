@@ -17,6 +17,8 @@ Awesome Active Learning [![Awesome](https://awesome.re/badge.svg)](https://aweso
 
 ### Singleton
 
+* [Influence Selection for Active Learning](https://arxiv.org/abs/2108.09331). Zhuoming Liu, Hao Ding, Huaping Zhong, Weijia Li, Jifeng Dai, Conghui He. (ICCV, 2021)
+
 * [A Variance Maximization Criterion for Active Learning](https://arxiv.org/pdf/1706.07642.pdf). Yazhou Yang, Marco Loog. (Pattern Recognition, 2018)
 
 * [The power of ensembles for active learning in image classification](http://openaccess.thecvf.com/content_cvpr_2018/papers/Beluch_The_Power_of_CVPR_2018_paper.pdf). William H. Beluch, Tim Genewein, Andreas Nurnberger, Jan M. Kohler. (CVPR, 2018)
