@@ -80,6 +80,12 @@
 
 * [Multiple Instance Active Learning for Object Detection](https://arxiv.org/pdf/2104.02324.pdf). Tianning Yuan, Fang Wan, Mengying Fu, Jianzhuang Liu, Songcen Xu, Xiangyang Ji and Qixiang Ye. (CVPR, 2021)
 
+### Coreset
+
+* [Coresets for Robust Training of Neural Networks against Noisy Labels](https://arxiv.org/abs/2011.07451). Baharan Mirzasoleiman, Kaidi Cao, Jure Leskovec (NeurIPS, 2020)
+* [Coresets for Data-efficient Training of Machine Learning Models](https://arxiv.org/abs/1906.01827). Baharan Mirzasoleiman, Jeff Bilmes, Jure Leskovec (ICML, 2020)
+* [Active Learning for Convolutional Neural Networks: A Core-Set Approach](https://arxiv.org/abs/1708.00489) Ozan Sener, Silvio Savarese (ICLR, 2018)
+
 ### Theory
 
 * [On Statistical Bias In Active Learning: How and When To Fix It](https://openreview.net/forum?id=JiYq3eqTKY). Sebastian Farquhar, Yarin Gal, Tom Rainforth (ICLR, 2021 spotlight)
