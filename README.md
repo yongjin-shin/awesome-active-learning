@@ -78,6 +78,7 @@
 
 #### Object Detection
 
+* [Not All Labels Are Equal:Rationalizing The Labeling Costs for Training Object Detection](https://arxiv.org/abs/2106.11921). Ismail Elezi, Zhiding Yu, Anima Anandkumar, Laura Leal-Taixe, Jose M. Alvarez. (CVPR, 2022)
 * [Multiple Instance Active Learning for Object Detection](https://arxiv.org/pdf/2104.02324.pdf). Tianning Yuan, Fang Wan, Mengying Fu, Jianzhuang Liu, Songcen Xu, Xiangyang Ji and Qixiang Ye. (CVPR, 2021)
 
 ### Coreset
