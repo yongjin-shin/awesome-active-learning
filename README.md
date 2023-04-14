@@ -94,6 +94,7 @@
 
 ### Critics
 
+* [Toward Realistic Evaluation of Deep Active Learning Algorithms in Image Classification](https://arxiv.org/abs/2301.10625). Carsten T. Lüth, Till J. Bungert, Lukas Klein, Paul F. Jaeger. (arXiv, 2023)
 * [Towards Robust and Reproducible Active  Learning Using Neural Networks](https://arxiv.org/abs/2002.09564). Prateek Munjal, Nasir Hayaat, Nunawar Hayat, Jamshid Sourati, Shadab Khan. (arXiv, 2020)
 * [Parting with Illusions about Deep Active Learning](https://arxiv.org/abs/1912.05361). Sudhanshu Mittal, Maxim Tatarchenko. Ozgu ̈n Cicek, Thomas Brox. (arXiv, 2019)
 
