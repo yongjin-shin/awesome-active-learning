@@ -15,6 +15,8 @@
 
 #### Singleton
 
+* [Class-Balanced Active Learning for Image Classification](https://arxiv.org/abs/2110.04543). Javad Zolfaghari Bengar, Joost van de Weijer, Laura Lopez Fuentes, Bogdan Raducanu. (WACV, 2022)
+
 * [Influence Selection for Active Learning](https://arxiv.org/abs/2108.09331). Zhuoming Liu, Hao Ding, Huaping Zhong, Weijia Li, Jifeng Dai, Conghui He. (ICCV, 2021)
 
 * [A Variance Maximization Criterion for Active Learning](https://arxiv.org/pdf/1706.07642.pdf). Yazhou Yang, Marco Loog. (Pattern Recognition, 2018)
@@ -94,6 +96,7 @@
 
 ### Critics
 
+* [Toward Realistic Evaluation of Deep Active Learning Algorithms in Image Classification](https://arxiv.org/abs/2301.10625). Carsten T. Lüth, Till J. Bungert, Lukas Klein, Paul F. Jaeger. (arXiv, 2023)
 * [Towards Robust and Reproducible Active  Learning Using Neural Networks](https://arxiv.org/abs/2002.09564). Prateek Munjal, Nasir Hayaat, Nunawar Hayat, Jamshid Sourati, Shadab Khan. (arXiv, 2020)
 * [Parting with Illusions about Deep Active Learning](https://arxiv.org/abs/1912.05361). Sudhanshu Mittal, Maxim Tatarchenko. Ozgu ̈n Cicek, Thomas Brox. (arXiv, 2019)
 
