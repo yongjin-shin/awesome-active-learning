@@ -15,6 +15,8 @@
 
 #### Singleton
 
+* [Entropic Open-Set Active Learning](https://arxiv.org/abs/2312.14126). Bardia Safaei, Vibashan VS, Celso M. de Melo, Vishal M. Patel. (AAAI, 2024)
+
 * [Class-Balanced Active Learning for Image Classification](https://arxiv.org/abs/2110.04543). Javad Zolfaghari Bengar, Joost van de Weijer, Laura Lopez Fuentes, Bogdan Raducanu. (WACV, 2022)
 
 * [Influence Selection for Active Learning](https://arxiv.org/abs/2108.09331). Zhuoming Liu, Hao Ding, Huaping Zhong, Weijia Li, Jifeng Dai, Conghui He. (ICCV, 2021)
